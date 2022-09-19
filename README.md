@@ -27,3 +27,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=atrivedi8988&show_icons=true&locale=en" alt="atrivedi8988" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atrivedi8988&" alt="atrivedi8988" /></p>
+<p>
+  <img src="https://activity-graph.herokuapp.com/graph?username=atrivedi8988&show_icons=true&count_private=true&include_all_commits=true&theme=minimal&hide_border=true&radius=4" />
+</p>
