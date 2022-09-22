@@ -1,23 +1,17 @@
 ![MasterHead](https://dezinebrainz.com/images/web-design-gif.gif)
-<h1 align="center">Hi 👋, I'm Sanjaykumar Verma</h1>
+<h1 align="center">Hi 👋, I'm Aman Trivedi</h1>
 <h3 align="center">A passionate developer | Content Creator</h3>
 <img align="right" alt="Developer" width="400" src="https://jodhpurwebdesigner.com/wp-content/uploads/2019/08/web-development.gif"/>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sk-webdeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="sk-webdeveloper" /> </p>
-
-<p align="left"> <a href="https://twitter.com/iamsanjaykumar_" target="blank"><img src="https://img.shields.io/twitter/follow/iamsanjaykumar_?logo=twitter&style=for-the-badge" alt="iamsanjaykumar_" /></a> </p>
-
 - 🌱 I’m currently learning **Web Development Technologies**
 
-- 📫 How to reach me **vermasanjaykumar97@gmail.com**
+- 📫 How to reach me **atrivedi8988@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/iamsanjaykumar_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsanjaykumar_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sanjaykumar-verma-a73349219" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanjaykumar-verma-a73349219" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCVwdJKBVjjWv-yNDTm0pIKw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Bandidos Sanjay" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aman-trivedi-439362233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-trivedi-439362233" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
