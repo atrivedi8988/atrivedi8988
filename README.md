@@ -42,7 +42,7 @@
   ![Zoom](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)
   
   ## Github Stats 📊:
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=atrivedi8988)](https://git.io/streak-stats)
   <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=atrivedi8988&show_icons=true&theme=radical" />
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atrivedi8988&layout=compact&theme=radical" />
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=atrivedi8988&theme=rogue"/> -->
